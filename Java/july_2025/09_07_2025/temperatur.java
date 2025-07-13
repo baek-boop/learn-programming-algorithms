@@ -6,6 +6,7 @@ public class temperatur {
 
         System.out.println("Program Cek Kondisi Temperatur");
 
+        System.out.println("Masukkan suhu dalam Celcius: ");
 
     }
 }
