@@ -7,6 +7,5 @@ public class temperatur {
         System.out.println("Program Cek Kondisi Temperatur");
 
 
-
     }
 }
