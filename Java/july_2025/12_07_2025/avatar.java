@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.function.DoubleToIntFunction;
 
 public class avatar {
     public static void main(String[] args) {
@@ -7,6 +8,6 @@ public class avatar {
         System.out.printf("Program Avatar\n");
         System.out.printf("Masukkan nama Anda: ");
 
-
+        DoubleToIntFunction
     }
 }
