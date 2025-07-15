@@ -8,4 +8,5 @@ public class tes{
 
         );
     }
-}
+}sealed segitigas
+s
